@@ -1,0 +1,57 @@
+<div class="container">
+    <h2>{{multilingualContent.text.titleView}}</h2>
+    <form [formGroup]="userFormGroup">
+    
+    
+        
+      <div class="form-group">
+        <label for="firstname">{{multilingualContent.text.firstName}}</label>
+        <input type="text" formControlName="firstname" class="form-control" readonly />
+        
+      </div>
+      <div class="form-group">
+        <label for="lastname">{{multilingualContent.text.lastName}}</label>
+        <input type="text" formControlName="lastname" class="form-control" readonly/>
+        
+      </div>
+        <div class="form-group">
+            <label for="username">{{multilingualContent.text.userName}}</label>
+            <input type="text" formControlName="username" class="form-control" readonly/>
+            
+      </div>
+      <div class="form-group">
+        <label for="password">{{multilingualContent.text.password}}</label>
+        <input type="password" formControlName="password" class="form-control" readonly/>
+        
+      </div>
+      <div class="card-footer">
+      <div class="form-group">
+        <button (click)="edit()" class="btn btn-primary btn-sm">{{multilingualContent.text.edit}}</button>
+        
+        <button class="btn btn-danger btn-sm" data-toggle="modal" data-target="#exampleModal" style="float: right;">{{multilingualContent.text.delete}}</button>
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">{{multilingualContent.text.delete}}</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                {{multilingualContent.alert.deleteMessage}} 
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">{{multilingualContent.alert.deleteNo}}</button>
+                <button (click)="delete()" type="button" data-dismiss="modal" class="btn btn-primary">{{multilingualContent.alert.deleteYes}}</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    </form>
+    </div>
+
+    

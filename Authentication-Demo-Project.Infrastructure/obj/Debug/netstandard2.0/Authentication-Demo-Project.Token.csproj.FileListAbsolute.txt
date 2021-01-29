@@ -1,0 +1,24 @@
+E:\DevOps\Authentication-Demo-Project.Token\bin\Debug\netstandard2.0\Authentication-Demo-Project.Token.deps.json
+E:\DevOps\Authentication-Demo-Project.Token\bin\Debug\netstandard2.0\Authentication-Demo-Project.Token.dll
+E:\DevOps\Authentication-Demo-Project.Token\bin\Debug\netstandard2.0\Authentication-Demo-Project.Token.pdb
+E:\DevOps\Authentication-Demo-Project.Token\bin\Debug\netstandard2.0\Authentication-Demo-Project.Model.dll
+E:\DevOps\Authentication-Demo-Project.Token\bin\Debug\netstandard2.0\Authentication-Demo-Project.Model.pdb
+E:\DevOps\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.csprojAssemblyReference.cache
+E:\DevOps\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.AssemblyInfoInputs.cache
+E:\DevOps\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.AssemblyInfo.cs
+E:\DevOps\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.csproj.CoreCompileInputs.cache
+E:\DevOps\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.csproj.CopyComplete
+E:\DevOps\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.dll
+E:\DevOps\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.pdb
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project.Token\bin\Debug\netstandard2.0\Authentication-Demo-Project.Token.deps.json
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project.Token\bin\Debug\netstandard2.0\Authentication-Demo-Project.Token.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project.Token\bin\Debug\netstandard2.0\Authentication-Demo-Project.Token.pdb
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project.Token\bin\Debug\netstandard2.0\Authentication-Demo-Project.Model.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project.Token\bin\Debug\netstandard2.0\Authentication-Demo-Project.Model.pdb
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.csprojAssemblyReference.cache
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.AssemblyInfoInputs.cache
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.AssemblyInfo.cs
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.csproj.CoreCompileInputs.cache
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.csproj.CopyComplete
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project.Token\obj\Debug\netstandard2.0\Authentication-Demo-Project.Token.pdb

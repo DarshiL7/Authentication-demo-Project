@@ -1,0 +1,9 @@
+<div class="container" style="padding-top: 1%;">
+<div class="topbar">
+    <div class="header">
+        <button class="btn " (click)="changeLanguage('en')">English</button>
+        <button class="btn " (click)="changeLanguage('es')" >Spanish</button> 
+        <button *ngIf="isLoginShow" (click)="onLogout()" class="btn btn-warning btn-sm" style="float: right;" >Log out</button>
+    </div>
+</div>
+</div>

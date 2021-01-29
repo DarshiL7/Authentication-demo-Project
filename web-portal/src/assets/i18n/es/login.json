@@ -1,0 +1,20 @@
+{
+    "placeholder":{
+      "userName":"Ingrese su nombre de usuario",
+      "password":"Ingresa tu contraseña"
+    },
+    "text":{
+      "title":"Iniciar sesión",
+      "userName":"Nombre de usuario",
+      "password":"Contraseña de usuario",
+      "login":"Iniciar sesión",
+      "signup":"Regístrate",
+      "show":"Mostrar contraseña"
+    },
+    "alert":{
+      "userName":"Se requiere nombre de usuario",
+      "password":"se requiere contraseña",
+      "title":"¡Alerta!",
+      "alert":"Usuario o contraseña incorrectos."
+    }
+  }

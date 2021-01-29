@@ -1,0 +1,20 @@
+{
+    "placeholder":{
+      "userName":"Enter Your User Name",
+      "password":"Enter Your Password"
+    },
+    "text":{
+      "title":"Login",
+      "userName":"User Name",
+      "password":"User Password",
+      "login":"Login",
+      "signup":"SignUp",
+      "show":"Show Password"
+    },
+    "alert":{
+      "title":"Alert!",
+      "userName":"Username is required",
+      "password":"Password is required",
+      "alert":"Username or Password Incorrect."
+    }
+  }

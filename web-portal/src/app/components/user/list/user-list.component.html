@@ -1,0 +1,53 @@
+<div class="container" style="padding-top: 1%;">
+
+
+    <h2 class="card-title">{{multilingualContent.text.titleList}}</h2>
+    <div class="card-body">
+        <table class="table table-bordered">
+            <thead class="thead-light">
+                <tr>
+                    <th>{{multilingualContent.text.action}}</th>
+                    <th>{{multilingualContent.text.firstName}}</th>
+                    <th>{{multilingualContent.text.lastName}}</th>
+                    <th>{{multilingualContent.text.userName}}</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr *ngFor="let user of users">
+                <td>
+                    <i class="fas fa-pencil-alt" (click)="navigateToPage('edit',user)"></i>
+                    <i class="fas fa-trash-alt" data-toggle="modal" data-target="#exampleModal"></i>
+                    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog"
+                        aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="exampleModalLabel">{{multilingualContent.text.delete}}</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    {{multilingualContent.alert.deleteMessage}} 
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">{{multilingualContent.alert.deleteNo}}</button>
+                                    <button type="button" class="btn btn-primary" (click)="delete(user)"
+                                        data-dismiss="modal">{{multilingualContent.alert.deleteYes}}</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </td>
+                <td>{{user.firstName}}</td>
+                <td>{{user.lastName}}</td>
+                <td>{{user.username}}</td>
+            </tr>
+            <tr *ngIf="users.length == 0">
+                <td colspan="16" class="empty-table">No users found</td>
+            </tr>
+        </tbody>
+        </table>
+    </div>
+
+</div>

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\radix\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\radix\\.nuget\\packages"
+    ]
+  }
+}

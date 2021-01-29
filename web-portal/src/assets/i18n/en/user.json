@@ -1,0 +1,36 @@
+{
+    "placeholder":{
+      "firstName":"Enter Your First Name",
+      "lastName":"Enter Your Last Name",
+      "userName":"Enter Your User Name",
+      "password":"Enter Your Password"
+    },
+    "text":{
+      "title":"User Add",
+      "titleView":"User View",
+      "titleList":"User List",
+      "userName":"User Name",
+      "password":"User Password",
+      "firstName":"First Name",
+      "lastName":"Last Name",
+      "submit":"Submit",
+      "signin":"SignIn",
+      "edit":"Edit User Value",
+      "delete":"Delete User",
+      "action":"Actions"
+    },
+    "alert":{
+      "title":"Alert!",
+      "titleEdit":"User-Edit",
+      "alert":"Username or Password is already exist.",
+      "alertEdit":"We are logging you out due to security purpose. Please login again.",
+      "success":"User Added Successfully.",
+      "firstName":"Firstname is required",
+      "lastName":"Lastname is required",
+      "userName":"Username is required",
+      "password":"Password is required",
+      "deleteMessage":"Are you sure?",
+      "deleteYes":"Confirm Delete",
+      "deleteNo":"Close"
+    }
+  }

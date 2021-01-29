@@ -1,0 +1,26 @@
+<div class="container">
+  
+  <div class="card">
+    <h2>User Profile</h2>
+    <div>
+      <img src="{{ImageUrl}}" style="width:80%;" class="center">
+    </div>
+    <div>
+      <label>Full Name</label>
+      <p>{{FullName}}</p>
+    </div>
+    <div>
+      <label>Given  Name</label>
+      <p>{{GivenName}}</p>
+    </div>
+    <div>
+      <label>Family Name</label>
+      <p>{{FamilyName}}</p>
+    </div>
+    <div>
+      <label>Email</label>
+      <p>{{Email}}</p>
+    </div>
+    <button (click)="onLogout()" class="btn btn-danger btn-sm" style="float: right;" >Log out</button>
+  </div>
+</div>

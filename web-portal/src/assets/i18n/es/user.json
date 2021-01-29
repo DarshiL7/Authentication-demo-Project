@@ -1,0 +1,36 @@
+{
+    "placeholder":{
+      "firstName":"Ponga su primer nombre",
+      "lastName":"Ingrese su apellido",
+      "userName":"Ingrese su nombre de usuario",
+      "password":"Ingresa tu contraseña"
+    },
+    "text":{
+      "title":"Agregar usuario",
+      "titleView":"Vista de usuario",
+      "titleList":"Lista de usuarios",
+      "userName":"Nombre de usuario",
+      "password":"Contraseña de usuario",
+      "firstName":"Primer nombre",
+      "lastName":"Apellido",
+      "submit":"Enviar",
+      "signin":"Registrarse",
+      "edit":"Editar valor de usuario",
+      "delete":"Borrar usuario",
+      "action":"Comportamiento"
+    },
+    "alert":{
+      "title":"¡Alerta!",
+      "titleEdit":"Editar usuario",
+      "alert":"El nombre de usuario o la contraseña ya existe.",
+      "alertEdit":"Lo cerramos por motivos de seguridad. Ingrese nuevamente.",
+      "success":"Usuario agregado con éxito.",
+      "firstName":"Se requiere el primer nombre",
+      "lastName":"Se requiere apellido",
+      "userName":"Se requiere nombre de usuario",
+      "password":"se requiere contraseña",
+      "deleteMessage":"Estas seguro",
+      "deleteYes":"Confirmar eliminación",
+      "deleteNo":"Cerca"
+    }
+  }

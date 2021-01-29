@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Authentication_Demo_Project.Domain</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Authentication-Demo-Project.Infrastructure\Authentication-Demo-Project.Infrastructure.csproj" />
+    <ProjectReference Include="..\Authentication-Demo-Project.Model\Authentication-Demo-Project.Model.csproj" />
+  </ItemGroup>
+
+</Project>

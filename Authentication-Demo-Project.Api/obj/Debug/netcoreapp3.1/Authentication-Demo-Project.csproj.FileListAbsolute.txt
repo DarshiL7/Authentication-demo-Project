@@ -1,0 +1,190 @@
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\appsettings.json
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.exe
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.deps.json
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.runtimeconfig.json
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.runtimeconfig.dev.json
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.pdb
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.Domain.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.Model.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.Token.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.Domain.pdb
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.Model.pdb
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.Token.pdb
+E:\DevOps\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.csprojAssemblyReference.cache
+E:\DevOps\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.AssemblyInfoInputs.cache
+E:\DevOps\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.AssemblyInfo.cs
+E:\DevOps\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.RazorTargetAssemblyInfo.cache
+E:\DevOps\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.csproj.CopyComplete
+E:\DevOps\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\staticwebassets\Authentication-Demo-Project.StaticWebAssets.Manifest.cache
+E:\DevOps\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\staticwebassets\Authentication-Demo-Project.StaticWebAssets.xml
+E:\DevOps\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.dll
+E:\DevOps\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.pdb
+E:\DevOps\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.genruntimeconfig.cache
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\DevOps\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+E:\DevOps\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.csproj.CoreCompileInputs.cache
+E:\DevOps\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.MvcApplicationPartsAssemblyInfo.cache
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\appsettings.json
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.exe
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.deps.json
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.runtimeconfig.json
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.runtimeconfig.dev.json
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.pdb
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.Domain.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.Model.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.Token.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.Domain.pdb
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.Model.pdb
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\bin\Debug\netcoreapp3.1\Authentication-Demo-Project.Token.pdb
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.csprojAssemblyReference.cache
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.AssemblyInfoInputs.cache
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.AssemblyInfo.cs
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.csproj.CoreCompileInputs.cache
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.MvcApplicationPartsAssemblyInfo.cache
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.RazorTargetAssemblyInfo.cache
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.csproj.CopyComplete
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\staticwebassets\Authentication-Demo-Project.StaticWebAssets.Manifest.cache
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\staticwebassets\Authentication-Demo-Project.StaticWebAssets.xml
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.dll
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.pdb
+E:\DevOps\Asp.Net Core Projects\Authentication-demo Project\Authentication-Demo-Project\obj\Debug\netcoreapp3.1\Authentication-Demo-Project.genruntimeconfig.cache
